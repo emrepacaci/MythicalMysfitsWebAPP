@@ -1,4 +1,4 @@
-# Mythical Mysfits on AWS(JAVA)
+# Mythical Mysfits Web APP on AWS(JAVA-Spring Boot)
 
 ![Architecture](arch-diagram.png)
 
