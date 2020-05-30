@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project has built by following aws-modern-application workshop. 
+This project has built by following aws-modern-application workshop and based on N-tier architecture to create decoupled and highly available application.
 
 * A static website served static directly from Amazon S3
 * Created the Core infrastructure using AWS CloudFormation
