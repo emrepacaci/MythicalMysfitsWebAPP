@@ -11,8 +11,6 @@ This project has built by following aws-modern-application workshop.
 * Added data tier using a DynamoDB table to make the website future more extensible and flexible. 
 * Provided authetication and register for users on this website using AWS Cognito, and API Gateway.
 
-![Architecture](arch-diagram.png)
-
 **Services used:**
 * [Amazon ECS](https://aws.amazon.com/ecs/)
 * [Amazon EC2](https://aws.amazon.com/ec2/)
