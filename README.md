@@ -6,7 +6,7 @@ This project has built by following aws-modern-application workshop and based on
 
 * A static website served static directly from Amazon S3
 * Created the Core infrastructure using AWS CloudFormation
-* BackEnd has built as microservice API created using Java and Spring Boot. This service has stored into a docker container and then pushed to the Amazon Elastic Container Registery which pulled by Amazon Elastic Container Service using Serverless option, Fargate instead of EC2. 
+* BackEnd has built as microservice API created using Java and Spring Boot. This service has stored into a docker container and then pushed to the Amazon Elastic Container Registry  which pulled by Amazon Elastic Container Service using Serverless option, Fargate instead of EC2. 
 * Created pipeline to continuously delivery newly built artifacts to our service in ECS Fargate. 
 * Added data tier using a DynamoDB table to make the website future more extensible and flexible. 
 * Provided authetication and register for users on this website using AWS Cognito, and API Gateway.
